@@ -10,8 +10,7 @@
   text-align: center;
 }
 
-.button {
-  background-color: #4caf50;
+.Form button {
   width: 10%;
   padding: 9px 5px;
   margin: 10px 0px 0px 35px;
@@ -20,4 +19,14 @@
   color: #ffffff;
   font-size: 15px;
   font-weight: bold;
+}
+
+.green {
+  background-color: #4caf50;
+}
+.blue {
+  background-color: #1ecbe1;
+}
+.red {
+  background-color: #e1341e;
 }
